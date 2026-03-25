@@ -33,7 +33,6 @@ A simple and efficient Todo Application built to manage daily tasks. This app al
 
 ## 📂 Project Structure
 todo-app/
-│
 ├── frontend/ # Frontend code
 ├── backend/ # Backend code (if applicable)
 ├── models/ # Database models
