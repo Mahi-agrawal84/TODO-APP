@@ -11,4 +11,4 @@ router.post("/",auth,validateTodo,createTodo)
 router.put("/:id",auth,updateTodo);
 router.delete("/:id",auth,deleteTodo);
 
-module.exports=router; 
+module.exports=router;
